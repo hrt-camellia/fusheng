@@ -141,41 +141,41 @@ ollama pull qwen3:4b
 
 白天主题：
 
-![浮生白天首页](docs/screenshots/01-home-day.png)
+![浮生白天首页](docs/01-home-day.png)
 
 夜间星河主题：
 
-![浮生夜间首页](docs/screenshots/01-home-night.png)
+![浮生夜间首页](docs/01-home-night.png)
 
 ### 八字命盘
 
 支持出生地点逐级选择、经纬度解析、真太阳时校正与命盘生成。
 
-![八字命盘](docs/screenshots/02-bazi.png)
+![八字命盘](docs/02-bazi.png)
 
 ### AI 上下文记忆
 
 采用“固定命盘、长期摘要、近期消息”三层上下文结构，并提供可视化调试报告。
 
-![AI上下文调试](docs/screenshots/03-chat-context.png)
+![AI上下文调试](docs/03-chat-context.png)
 
 ### 每日运势
 
 结合用户命盘与当前日期生成确定性的每日运势信息。
 
-![每日运势](docs/screenshots/04-fortune.png)
+![每日运势](docs/04-fortune.png)
 
 ### 水晶手串设计
 
 支持珠径选择、混合水晶搭配、尺寸计算、自动补齐与方案保存。
 
-![水晶手串设计](docs/screenshots/05-bracelet.png)
+![水晶手串设计](docs/05-bracelet.png)
 
 ### 登录与云端同步
 
 基于 Supabase Auth、PostgreSQL 与 RLS，实现账号登录、数据迁移和跨设备恢复。
 
-![云端数据同步](docs/screenshots/06-cloud-sync.png)
+![云端数据同步](docs/06-cloud-sync.png)
 ## 质量检查
 
 安装依赖后运行：
